@@ -40,7 +40,7 @@
     - [Next Steps](#next-steps)
 
 ## Introduction
-A “Tableau story” based dashboard using actual data from our website to analyse visitor behaviour and identify trends in the sign-up flow.
+A “Tableau story” based dashboard using actual data from our website to analyse visitor behaviour and identify trends in the sign-up flow. Data is fetched from SQL into CSV format, since the platform used is Tableau Public, which does not support SQL connection for free versions.
 
 ## Importance of Dashboards
 - **Value for Businesses:** Dashboards provide at-a-glance insights into key performance metrics, enabling real-time monitoring and evaluation.
