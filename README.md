@@ -73,13 +73,16 @@ A “Tableau story” based dashboard using actual data from our website to anal
 The platform offers a free registration option with two primary methods:
 - **Email Sign-Up:** Requires users to input their email address, password, and names.
 - **Social Media Sign-Up:** Users can register using existing accounts from Facebook, LinkedIn, or Google.
-
 Both methods are accessible on desktop and mobile devices, ensuring flexibility for users.
+
+<img src="images/signup-dashboard.png" alt="Sign-Up Flow Dashboard" width="600"/>
 
 ### Dashboard Analysis
 
 #### Dashboard 1: Monthly Visitors and Conversion Rates:
 A dual chart on the dashboard displays the number of monthly visitors alongside the corresponding sign-up conversion rates.
+
+<img src="images/signup-dashboard.png" alt="Sign-Up Flow Dashboard" width="600"/>
 
 - **Insights:**
     - November records the highest visitor count and conversion rate, exceeding 26%.
@@ -138,6 +141,8 @@ The goal is to understand the current state of the sign-up flow and identifying 
 
 In this portion of report, we focus on understanding the different sign-up types and their popularity among users.
 
+<img src="images/signup-dashboard.png" alt="Sign-Up Flow Dashboard" width="600"/>
+
 ## Sign-Up Preferences
 - **Preferred Sign-Up Options:**
     - Google: The most popular choice with over 54,000 visitors opting for it.
@@ -161,6 +166,8 @@ In this portion of report, we focus on understanding the different sign-up types
         - Social media sign-ups are attractive if they offer a quick and hassle-free experience.
 
 ## Sign-Up Interface Analysis
+
+<img src="images/signup-dashboard.png" alt="Sign-Up Flow Dashboard" width="600"/>
 
 ### 365 Sign-Up Window:
 - Options include Google, Facebook, LinkedIn, and email.
@@ -236,6 +243,8 @@ Google is the most favoured sign-up choice with the lowest fail rate, while emai
 ## Introduction
 - After examining sign-up patterns, we now turn our attention to login behaviours on the website.
 - This analysis is based on the third page of our sign-up story, which describes the login type and login related errors.
+
+<img src="images/signup-dashboard.png" alt="Sign-Up Flow Dashboard" width="600"/>
 
 ## Login Preferences
 - **Preferred Login Methods:**
